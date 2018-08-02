@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bcghost",
+			"path": "."
+		}
+		// {
+		// 	"name": "a2hosting",
+		// 	"uri": "ftp://bcghost.mi3-wss9.a2hosting.com:21/?passive=yes"
+		// }
+	],
+	"settings": {}
+}
