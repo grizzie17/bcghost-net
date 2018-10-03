@@ -1,7 +1,7 @@
 {
-    "remotePath": "./",
+    "remotePath": "./httpdocs",
     "host": "bcghost.mi3-wss9.a2hosting.com",
-    "username": "mi3-wss9\\grizzie17",
+    "username": "mi3-wss9\\bcghostc",
     "password": "170101a2hosting.com",
     "port": 21,
     "secure": false,
